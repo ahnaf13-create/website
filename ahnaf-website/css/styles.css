@@ -1,0 +1,40 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: #343a40;
+}
+
+.profile {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.skill {
+    background-color: #007bff;
+    color: white;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px;
+    text-align: center;
+    width: 150px;
+    transition: transform 0.2s;
+}
+
+.skill:hover {
+    transform: scale(1.1);
+}
+
+.icon {
+    font-size: 40px;
+    margin-bottom: 10px;
+}

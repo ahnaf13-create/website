@@ -1,0 +1,15 @@
+The directory `/ahnaf-website/ahnaf-website/assets/icons` is intended to hold colorful icons representing Ahnaf's skills. Since this is a directory, it will not contain any files directly. However, I can provide a suggestion for the types of icons you might want to include in this directory.
+
+You can use icons from libraries like Font Awesome or create your own. Here’s a suggestion for the types of icons you might want to include:
+
+1. **html5.svg** - Icon for HTML5
+2. **css3.svg** - Icon for CSS3
+3. **javascript.svg** - Icon for JavaScript
+4. **python.svg** - Icon for Python
+5. **github.svg** - Icon for GitHub
+6. **react.svg** - Icon for React
+7. **nodejs.svg** - Icon for Node.js
+
+You can download these icons from a free icon library or create your own and place them in this directory. 
+
+The directory itself is intentionally left blank as it will contain the icon files.
